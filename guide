@@ -1,0 +1,209 @@
+# The Reddit Marketing Playbook for 2026
+
+Practitioner's field guide | October 2026
+
+> Earn attention by being useful. Keep trust by being transparent.
+
+This playbook explains how to research Reddit communities, participate in discussions, share relevant product information, monitor brand conversations, and create useful content that can remain discoverable over time.
+
+The guiding principle is simple: contribute something worth reading, in a way that respects each community's rules.
+
+## At a glance
+
+- Research communities before participating.
+- Understand each subreddit's rules and expectations.
+- Answer the user's question before mentioning a product.
+- Disclose relevant affiliations clearly.
+- Monitor feedback and account notices.
+- Use automation and data collection only where Reddit permits them.
+
+## 1. Start with strategy, not tactics
+
+### Define the problem
+
+Before joining a discussion, identify the problem the audience is trying to solve and the ways your product may help.
+
+- Describe the problem in the language customers use.
+- List the product's relevant capabilities in plain language.
+- Identify the situations in which people ask for advice or compare options.
+- Note where your product is not a good fit. Honest trade-offs build credibility.
+
+### Make every contribution useful on its own
+
+Reddit discussions reward relevant answers, not generic promotion.
+
+- Answer the actual question.
+- Include specific, supportable information.
+- Explain trade-offs and alternatives.
+- Avoid keyword stuffing, repeated copy, and irrelevant links.
+- Mention your product only when it genuinely answers the question and the community permits promotion.
+- Disclose your relationship to the product clearly.
+
+## 2. The three operating layers
+
+### Layer 1: Research and access
+
+Use approved methods to understand communities and keep your work organized.
+
+- Use Reddit's native search and permitted research tools.
+- Follow Reddit's User Agreement, API terms, and applicable data rules.
+- Do not scrape Reddit without authorization.
+- Keep access credentials secure.
+- Do not use browser, network, or account configurations to disguise coordinated activity or bypass platform restrictions.
+
+### Layer 2: Account integrity
+
+Use accounts authentically and in accordance with Reddit's rules.
+
+- Keep account ownership and access records accurate.
+- Participate in communities for legitimate, relevant reasons.
+- Do not impersonate customers or independent users.
+- Do not use multiple accounts to manufacture support, votes, or engagement.
+- Do not use alternate accounts to evade a community or sitewide ban.
+- Review official account notices and follow the stated appeal process when appropriate.
+
+### Layer 3: Community participation
+
+- Read the rules before posting or commenting.
+- Respect moderator guidance.
+- Avoid unsolicited messages and repetitive promotional activity.
+- Do not coordinate artificial votes or engagement.
+- Stop and review the situation when moderators remove content or Reddit issues a warning.
+- Use Reddit's advertising options when organic participation is not an appropriate channel.
+
+## 3. Research and listening toolkit
+
+The source playbook names the following tools and resources. Verify their current availability, data practices, and terms before use.
+
+| Tool or resource                  | Intended use                                    |
+| --------------------------------- | ----------------------------------------------- |
+| GummySearch                       | Audience and subreddit research                 |
+| F5Bot                             | Keyword alerts                                  |
+| Mention                           | Brand and social listening                      |
+| Styfen                            | Workflow and campaign tracking                  |
+| Reddit search                     | Find relevant public discussions                |
+| Reddit's approved developer tools | Access data within permitted terms              |
+| Account and campaign tracker      | Record participation, disclosures, and outcomes |
+
+Do not use a tool to circumvent access controls, collect data without authorization, or automate spam.
+
+## 4. Community participation workflow
+
+### Before participating
+
+- Read the subreddit's rules and recent moderator guidance.
+- Confirm the topic is relevant to the community.
+- Check whether promotional mentions are allowed.
+- Draft a direct answer that stands on its own.
+- Identify any relationship with the brand that readers should know.
+- Check claims and links for accuracy.
+
+### During participation
+
+- Answer the question first.
+- Share relevant experience or evidence without inventing personal experience.
+- Disclose employment, ownership, sponsorship, or other material affiliation.
+- Avoid repeated or near-identical comments across discussions.
+- Do not ask colleagues, contractors, or other accounts to manufacture votes or praise.
+- Respect community feedback and moderator decisions.
+
+### After participating
+
+- Review replies and feedback.
+- Record useful questions and recurring customer problems.
+- Note removals or moderator feedback so future content can improve.
+- Pause promotional activity if a policy concern arises.
+- Follow official guidance or appeal channels for account enforcement issues.
+
+## 5. Account and campaign health
+
+Monitor the quality of participation, not ways to defeat moderation systems.
+
+| Signal                               | What it may mean                                   | Recommended response                                           |
+| ------------------------------------ | -------------------------------------------------- | -------------------------------------------------------------- |
+| A post or comment is removed         | It may not fit the rules or community expectations | Read the removal reason and adjust future content              |
+| A moderator sends a warning          | A rule or expectation may have been missed         | Pause the affected activity and follow the guidance            |
+| Repeated negative feedback           | Content may be irrelevant or overly promotional    | Reassess audience fit and usefulness                           |
+| Reddit issues an account restriction | The account may be limited under platform rules    | Stop affected activity and use official help or appeal options |
+| A claim is challenged                | The content may need evidence or correction        | Verify it and correct errors transparently                     |
+| A link receives complaints           | The destination may be irrelevant or unclear       | Review the destination and remove it if it does not help       |
+
+### Review cadence
+
+| When                       | Review                                                      |
+| -------------------------- | ----------------------------------------------------------- |
+| Before joining a community | Rules, audience fit, and disclosure expectations            |
+| After publishing           | Replies, accuracy, and community feedback                   |
+| Weekly                     | Campaign outcomes, recurring questions, and content quality |
+| After a warning or removal | The stated reason, applicable rules, and corrective action  |
+
+## 6. Promotional content and disclosures
+
+Promotional content is not automatically spam, but community rules vary and repeated unwanted promotion can violate Reddit's policies.
+
+- Follow each community's rules on self-promotion.
+- Make your affiliation easy to understand.
+- Do not pose as a satisfied customer if you represent the company.
+- Do not create artificial engagement or coordinated praise.
+- Avoid unsolicited direct messages.
+- Consider Reddit advertising when paid promotion is the better fit.
+- Follow applicable advertising and consumer-protection laws.
+
+There is no universal posting ratio or schedule that guarantees compliance. Context, repetition, user impact, and community rules all matter.
+
+## 7. Useful content and AI discoverability
+
+Useful public discussions may be discoverable through search engines and may be referenced by AI-powered answer tools. No post can guarantee indexing, ranking, or citation.
+
+To create content that remains useful:
+
+- Answer a real question with clear information.
+- Include verifiable details and sources where appropriate.
+- Explain limitations and trade-offs.
+- Correct mistakes when they are identified.
+- Disclose relevant commercial relationships.
+- Avoid fake testimonials, fabricated experiences, and manufactured consensus.
+- Treat reader value as the goal, not a promised AI citation.
+
+> Trust is earned through useful answers and transparent participation.
+
+## 8. Account and campaign tracker
+
+Use `account-health/account-tracker.csv` to record legitimate participation and review outcomes. Do not store passwords, authentication codes, or other secrets in the repository.
+
+Suggested review statuses:
+
+- `Healthy`
+- `Watch`
+- `Paused`
+- `Retired`
+
+These are internal workflow labels, not official Reddit account classifications.
+
+### Repository structure
+
+```
+reddit-marketing-playbook/
+├── README.md
+├── account-health/
+│   └── account-tracker.csv
+├── workflows/
+│   └── community-participation.md
+├── tools/
+│   └── tool-stack.md
+└── LICENSE
+```
+
+## 9. Policy references
+
+Review the current versions before launching a campaign:
+
+- [Reddit Rules](https://redditinc.com/policies/reddit-rules)
+- [Spam policy](https://support.reddithelp.com/hc/en-us/articles/360043504051-Spam)
+- [Disrupting Communities](https://support.reddithelp.com/hc/en-us/articles/360043066412-Disrupting-Communities)
+- [Don't break the site](https://support.reddithelp.com/hc/en-us/articles/360043512931-Don-t-break-the-site)
+- [Ban evasion](https://support.reddithelp.com/hc/en-us/articles/360043504811-What-is-ban-evasion)
+
+## Disclaimer
+
+This playbook is an operational reference, not legal advice or a guarantee of account standing, reach, rankings, or AI citations. Platform rules and community requirements can change. Review the current rules and applicable laws before running a campaign.
